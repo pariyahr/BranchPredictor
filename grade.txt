@@ -1,8 +1,4 @@
-Thu Jun  1 06:56:29 UTC 2023
-predictor.v:14: warning: Static variable initialization requires explicit lifetime in this context.
-predictor.v:14: error: variable declaration assignments are only allowed at the module level.
-predictor.v:15: error: Variable declaration in unnamed block requires SystemVerilog.
-predictor.v:18: warning: Static variable initialization requires explicit lifetime in this context.
-predictor.v:18: error: variable declaration assignments are only allowed at the module level.
-predictor.v:19: error: Variable declaration in unnamed block requires SystemVerilog.
-An error occurred when opening .vcd file '.tmp.vcd'
+Thu Jun  1 07:00:53 UTC 2023
+Test 'predictor' failed for src file 'predictor.v'
+src file 'predictor.v': 0/1 tests passed
+
